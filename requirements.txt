@@ -1,3 +1,5 @@
 streamlit
 fastapi
-uvicorn
+uvicorn[standard]
+pandas
+scikit-learn
