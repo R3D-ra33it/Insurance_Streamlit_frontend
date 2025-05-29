@@ -1,0 +1,4 @@
+pickle
+streamlit
+fastapi
+uvicorn
